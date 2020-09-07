@@ -26,6 +26,8 @@ class linkedList(object):
 
 if __name__ == "__main__":
     print("[*] Check if the given Linked List contains a Loop\n")
+
+    #Insertion of list elements
     new_list = linkedList()
     new_list.push(20)
     new_list.push(4)
