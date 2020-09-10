@@ -41,4 +41,4 @@ Implementation of few Algorithms and Data Structures using python.
 1. **96A** - **Football** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/96A.py
 1. **112A** - **Petya and Strings** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/112A.py
 1. **282A** - **Bit++** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/282A.py
-1. **50A** - Domino piling - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/50A.py
+1. **50A** - **Domino piling** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/50A.py
