@@ -16,7 +16,6 @@ def selec_sort(arr):
    return arr
 ```
 Full code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/selecSort.py
 
 ## 2. Bubble Sort
@@ -33,7 +32,6 @@ def bble_sort(arr):
    return arr
 ```
 Full Code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/bbleSort.py
 
 ## 3. Merge Sort
@@ -70,7 +68,6 @@ def merge_sort(arr):
    return arr
 ```
 Full code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/mergeSort.py
 
 ## 4. Binary Search
@@ -91,7 +88,6 @@ def bin_srch(arr, srch_elem):
    return False, -1
 ```
 Full code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/binSearch.py
 
 ## 5. Balanced Parentheses using Stack
@@ -127,7 +123,6 @@ def check_balanced(inp):
        return False
 ```
 Full code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/balParanStack.py
 
 ## 6. Loop in Linked List
@@ -143,6 +138,5 @@ def check_loop(self):
        return False
 ```
 Full code at :
-
 https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/cycleLnkList.py
 
