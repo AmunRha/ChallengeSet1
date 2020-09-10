@@ -38,7 +38,7 @@ CodeForces User Profile - https://codeforces.com/profile/amun_rha
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1A.py">**1A** - **Theatre Square**</a>
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/339A.py">**339A** - **Helpful Maths**</a>
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/263A.py">**263A** - **Beautiful Matrix**</a>
-1. <a href="<a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/705A.py">**705A** - **Hulk**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/705A.py">**705A** - **Hulk**</a>
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/82A.py">**82A** - **Double Cola**</a>
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/96A.py">**96A** - **Football**</a>
 1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/112A.py">**112A** - **Petya and Strings**</a>
