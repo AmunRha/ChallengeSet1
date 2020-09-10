@@ -24,23 +24,23 @@ Implementation of few Algorithms and Data Structures using python.
 
 CodeForces User Profile - https://codeforces.com/profile/amun_rha
 
-1. **1031A** - **Golden Plate** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1031A.py
-1. **1030A** - **In Search of an Easy Problem** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1030A.py
-1. **1095A** - **Repeating Cipher** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1095A.py
-1. **1102A** - **Integer Sequence Dividing** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1102A.py
-1. **1061A** - **Coins** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1061A.py
-1. **1064A** - **Make a triangle!** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1064A.py
-1. **1096A** - **Find Divisible** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1096A.py
-1. **965A** - **Paper Airplanes** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/965A.py
-1. **1208A** - **XORinacci** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1208A.py
-1. **160A** - **Twins** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/160A.py
-1. **71A** - **Way too long words** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/71A.py
-1. **1A** - **Theatre Square** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1A.py
-1. **339A** - **Helpful Maths** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/339A.py
-1. **263A** - **Beautiful Matrix** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/263A.py
-1. **705A** - **Hulk** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/705A.py
-1. **82A** - **Double Cola** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/82A.py
-1. **96A** - **Football** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/96A.py
-1. **112A** - **Petya and Strings** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/112A.py
-1. **282A** - **Bit++** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/282A.py
-1. **50A** - **Domino piling** - https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/50A.py
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1031A.py">**1031A** - **Golden Plate**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1030A.py">**1030A** - **In Search of an Easy Problem**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1095A.py">**1095A** - **Repeating Cipher**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1102A.py">**1102A** - **Integer Sequence Dividing**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1061A.py">**1061A** - **Coins**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1064A.py">**1064A** - **Make a triangle!**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1096A.py">**1096A** - **Find Divisible**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/965A.py">**965A** - **Paper Airplanes**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1208A.py">**1208A** - **XORinacci**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/160A.py">**160A** - **Twins**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/71A.py">**71A** - **Way too long words**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/1A.py">**1A** - **Theatre Square**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/339A.py">**339A** - **Helpful Maths**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/263A.py">**263A** - **Beautiful Matrix**</a>
+1. <a href="<a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/705A.py">**705A** - **Hulk**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/82A.py">**82A** - **Double Cola**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/96A.py">**96A** - **Football**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/112A.py">**112A** - **Petya and Strings**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/282A.py">**282A** - **Bit++**</a>
+1. <a href="https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/50A.py">**50A** - **Domino piling**</a>
