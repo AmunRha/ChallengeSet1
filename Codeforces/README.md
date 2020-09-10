@@ -2,6 +2,7 @@
 
 Full documentation at https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/CodeForces.pdf
 
+Short explanation at https://github.com/AmunRha/ChallengeSet1/blob/master/Codeforces/writeup.txt
 
 CodeForces User Profile - https://codeforces.com/profile/amun_rha
 
