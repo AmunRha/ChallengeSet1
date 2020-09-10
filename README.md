@@ -1,5 +1,7 @@
 # ChallengeSet1
 
+Implementation of few Algorithms and Data Structures using python.
+
 ## Algorithms
 
 * Selection Sort - https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/selecSort.py
