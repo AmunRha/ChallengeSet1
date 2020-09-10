@@ -1,0 +1,95 @@
+[*]1. 1031A - Golden Plate
+
+Simple pattern finding would get the the solve and adding those progressions for each iteration would give the final result
+
+[*]2. 1030A - In Search of an Easy Problem
+
+Check if any of the input contains the number 1, if it does set "hard" flag as "True" and break and print "HARD" else if input doesnt contain the number 1, "hard" flag would be "False" and thus print "EASY".
+
+[*]3. 1095A - Repeating Cipher
+
+After getting the input and converting it to a list, we try to print all the characters in,
+
+0, 2, 5, 9 ... format to print out charactes until an exception occurs.
+
+[*]4. 1102A - Integer Sequence Dividing
+
+Trying out multiple examples gave in a pattern that all inputted numbers which are divisible by 4 or get a remainder of 3 when dividing by 4 has the minimum difference as 0 and everything else has the minimum difference as 1
+
+[*]5. 1061A - Coins
+
+Coins of maximum value are added until it exceeds the required sum, thus the number of times the coins added gives the answer.
+
+In case, the sum is less than the maximum value of a coin then that mean there is a coin with a value equal to sum in the given set thus making count as 1.
+
+[*]6. 1064A - Make a triangle!
+
+After a little bit of research I found out that a triangle is said to have a "positive area" when sum of two of its least side is greater than the largest side.
+After checking the tutorial section of the challenge also confirmed this.
+Thus, I incremeneted the least side alternatively until it became greater than or equal to the third greater side. Technically, a bruteforce method.
+
+[*]7. 1096A - Find Divisible
+
+Basic math implementation for each input
+
+[*]8. 965A - Paper Airplanes
+
+If the no of airplanes that can be made from a single sheet is greater than the no of airplanes each person can make then each person requires only one packet.
+
+If the no of airplanes that can be made from a single sheet is lesser than the no of airplanes each person can make then one person requires (no of airplanes each can make/no of airplanes from one sheet) no of sheets.
+
+[*]9. 1208A - XORinacci
+
+First I tried recursion function method but since few inputs exceeded the recursion limit I needed another approach.
+
+With a little bit of research and trying various inputs a pattern emerged that every third input will have either 1 or 0 or any other number as a remainder when divided by 3.
+
+And if it is indeed any other number then the answer is always xor of the first two inputs.
+
+[*]10. 160A - Twins
+
+After a little bit of research I found out that sorting the list and adding the larger elements until the sum becomes greater and keeping a counter for each iteration over the list would give the minimum no of coins required.
+
+[*]11. 71A - Way too long words
+
+If the length of the inputted word is less than or equal to 10 then the result would be the word itself.
+
+Since, the solution is in python it is easy to implement, the final result would be the first character of the inputted string concated with the length between the first and the last characters(using "len(s[1:-1])") concated with the last character.
+
+[*]12. 1A - Theatre Square
+
+Dividing the side length of the square with the stone on both the sides and multiplying them further would give the total no of stones needed. But if it leaves a remainder and since the stone can't be cut in half we could round the quotient to the next number.
+
+[*]13. 339A - Helpful Maths
+
+Count the number of one, two and three and using three different loops concate "1+", "2+", "3+" respectively for the range of the count.
+
+[*]14. 263A - Beautiful Matrix
+
+The shortest distance to the center index is the difference between the current index and the center. 
+
+[*]15. 705A - Hulk
+
+Setting different part of the string in different variables and alternating the string to concat for every iteration and also removing the "that" string with "it" finally would give the final result required
+
+[*]16. 82A - Double Cola
+
+After a lot of trial and error and codeforces announcements, I managed to find a solution which finds the next G.P. value lesser than to the given input and add the no of iterations to find the answer. 
+
+But, Time Limit was exceeded. Then from a forum where this problem was discussed there was a hint given to divide the difference between the result I got and the input by the no of iterations, which drastically reduced the time taken by making my former solutions' second loop more easier.
+
+[*]17. 96A - Football
+
+Two counters, "zer" and "one" is set to 0 intially and during each iteration over every character in the list the counter is increased by 1 as long as that character is the same for every next iteration, in case the character changes the counter is set to 0 again.
+
+[*]18. 112A - Petya and Strings
+
+All strings are integers at the fundamental level and since compare between them is done built-in in all programming languages a simple if/else or switch/case would only require.
+
+[*]19. 282A - Bit++
+
+If "++" is in the input the counter increases by one and else the counter decreases by one, thus the total value can be found after all the inputs
+
+[*]20. 50A - Domino piling
+
+Simple area calculation, of sides respective of whether the side is even or odd.
