@@ -1,5 +1,9 @@
 # Algorithms
 
+Full Documentation :
+
+https://github.com/AmunRha/ChallengeSet1/blob/master/Algorithms/Algorithms.pdf
+
 ## 1. Selection Sort
 
 Code snippet :
