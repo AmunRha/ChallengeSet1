@@ -1,5 +1,9 @@
 # Data Structures
 
+Full Documentation :
+
+https://github.com/AmunRha/ChallengeSet1/blob/master/DataStructures/DataStructures.pdf
+
 ## 1. Linked List
 
 Code snippet :
